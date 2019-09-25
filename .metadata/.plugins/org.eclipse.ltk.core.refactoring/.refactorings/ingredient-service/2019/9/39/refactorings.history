@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;ingredient-service/src/main/java/tacos.ingredients&apos;&#x0D;&#x0A;- Original project: &apos;ingredient-service&apos;&#x0D;&#x0A;- Destination element: &apos;ingredient-service/src/main/java/tacos.ingredients&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     tacos.Ingredient.java&#x0D;&#x0A;     tacos.IngredientServiceApplication.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src\/main\/java&lt;tacos.ingredients" element1="/src\/main\/java&lt;tacos{Ingredient.java" element2="/src\/main\/java&lt;tacos{IngredientServiceApplication.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1569422099227" units="2" version="1.0"/>
+</session>

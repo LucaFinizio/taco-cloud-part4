@@ -1,0 +1,5 @@
+package tacos.ingredientclient.webclient;
+
+public class IngredientController {
+
+}

@@ -1,0 +1,5 @@
+package tacos.ingredientclient.testtemplate;
+
+public class RestTemplateConfig {
+
+}
