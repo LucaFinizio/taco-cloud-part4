@@ -1,3 +1,14 @@
 spring:
   application:
     name: ingredient-client
+ 
+#Decomment this for using feign instead of rest    
+#  profiles:
+#    active:
+#    - feign
+#      
+---
+spring:  profiles: webclient
+  
+---
+spring:  profiles: feign     
